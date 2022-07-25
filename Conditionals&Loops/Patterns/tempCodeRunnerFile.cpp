@@ -1,1 +1,1 @@
-char ch = 'A';
+star--;
