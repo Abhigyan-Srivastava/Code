@@ -1,0 +1,1 @@
+// Input num=5 Output=2
